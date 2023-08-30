@@ -13,7 +13,7 @@ Upon successfully completing these courses you will have done several hands-on a
 Peer-graded Assignment: Capstone Project Notebook's
 Course Contents:
 
-Week 1 - Introduction to Capstone Project
+# Week 1 - Introduction to Capstone Project
 
 Introduction to Capstone Project
 
@@ -31,7 +31,7 @@ Signing-up for a Watson Studio Account
 
 Peer-review Assignment: Capstone Project Notebook
 
-Week 2 - Foursquare API
+# Week 2 - Foursquare API
 
 Learning about Foursquare and its API.
 
@@ -51,7 +51,7 @@ Lab: Foursquare API
 
 Quiz: Foursquare API
 
-Week 3 - Neighborhood Segmentation and Clustering
+# Week 3 - Neighborhood Segmentation and Clustering
 
 Learning about clustering and k-means clustering in particular.
 
@@ -69,7 +69,7 @@ Lab: Segmenting and Clustering Neighborhoods in New York City
 
 Peer-review Assignment: Segmenting and Clustering Neighborhoods in Toronto
 
-Week 4 - Capstone Project
+# Week 4 - Capstone Project
 
 Define a problem for your capstone project.
 
@@ -77,7 +77,7 @@ Discuss the data that you will use to solve the problem.
 
 Peer-graded Assignment: Capstone Project - The Battle of Neighborhoods (Week 1)
 
-Week 5 - Capstone Project (Cont'd)
+# Week 5 - Capstone Project (Cont'd)
 
 Carry out the remaining work to complete the capstone project.
 
